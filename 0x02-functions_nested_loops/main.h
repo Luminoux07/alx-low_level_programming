@@ -1,7 +1,7 @@
 
 /**
 *File:main.h
-*Author:Pericles Adjovi
+*Author:Idowu Williams
 *Desc:header file containing functions declaration
 */
 
